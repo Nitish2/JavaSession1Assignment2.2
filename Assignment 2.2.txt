@@ -1,0 +1,16 @@
+Q. Differentiate Between Compiler and Interpreter ?
+Ans
+Compiler:- 
+1. Compiles the whole program.
+2. It takes more time for compilatioon.
+3. Faster than interpreter .
+4. It requires more memory.
+5. It generates the error message only after scanning the whole program.
+
+
+Interpreter:-
+1. Interprets the program line by line.
+2. It takes les time for interpretation.
+3. Slower than compiler .
+4. It requires less memory.
+5. Continues translating the program until the first error is met.
